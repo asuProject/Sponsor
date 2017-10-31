@@ -1,0 +1,32 @@
+{
+  "Add": "أضافة",
+  "Edit": "تعديل",
+  "Delete": "حذف",
+
+  "Added": "تمت الأضافة بنجاح",
+  "Updated": "تم التحديث بنجاح",
+  "Deleted": "تم الحذف بنجاح",
+
+  "sponsor name":"اسم الجهة الداعمة",
+  "sponsor address":"عنوان الجهة الداعمة",
+  "place":"المكان",
+  "website":"الموقع الألكترونى",
+  "other info":"معلومات أخرى",
+  "email":"البريد الألكترونى",
+  "phone":"رقم التليفون",
+  "comments":"ملاحظات",
+
+  "country":"الدولة",
+  "choose country":"أختار اسم الدولة",
+  "city":"المدينة",
+  "choose city":"أختار اسم المدينة",
+
+
+  "sponsors": "الجهات الداعمة",
+  "View sponsors": "قائمة الجهات الداعمة",
+  "Add sponsor": "إضافة جهة داعمة",
+  "Edit sponsor": "تعديل جهة داعمة",
+  "Delete sponsor": "حذف جهة داعمة",
+  "Delete sponsor Confirmation": "هل انت متاكد من حذف هذه الجهة الداعمة", 
+
+}
